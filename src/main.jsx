@@ -15,7 +15,7 @@ import p2 from "./assets/p2.png"
 import p3 from "./assets/p3.png"
 import p4 from "./assets/p4.png"
 import Testimionals from './components/Testimionals.jsx'
-import Footer from './footer.jsx'
+import Footer from './components/Footer.jsx'
 import profile1 from "./assets/profile_1.png"
 import profile2 from "./assets/profile_2.png"
 import profile3 from "./assets/profile_3.png"

@@ -1,8 +1,8 @@
 import React from 'react'
-import img1 from "./assets/img1.svg"
-import img2 from "./assets/img2.svg"
-import img3 from "./assets/img3.svg"
-import img4 from "./assets/img4.svg"
+import img1 from "../assets/img1.svg"
+import img2 from "../assets/img2.svg"
+import img3 from "../assets/img3.svg"
+import img4 from "../assets/img4.svg"
 
 import "./Footer.css"
 
@@ -15,7 +15,7 @@ export const Footer = () => {
         <a href="/" className="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none" aria-label="Bootstrap">
           <h1 className="fw-bold text-white">NexOra</h1>
           <svg className="bi me-2" width="40" height="32" aria-hidden="true">
-            <use xlink:href="#bootstrap"></use>
+            <use xlinkHref="#bootstrap"></use>
           </svg>
         </a>
         <p className="fontwidth fw-light m-0 text">Copyright © 2026 Fabiha Sohail.</p>
