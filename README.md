@@ -1,16 +1,46 @@
-# React + Vite
+# 🌐 React Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive webpage built with **React.js**. This project focuses on reusable components, component-based architecture, and conditional rendering.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🧭 Responsive Navigation Bar
+- 🎨 Hero Section
+- 🃏 Dynamic Cards
+- ♻️ Reusable React Components
+- 🔄 Conditional Rendering
+- ⚡ Dynamic UI Updates
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
 
-## Expanding the ESLint configuration
+## 📚 What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Creating and Managing React Components
+- Building Reusable Components
+- Passing Data Through Props
+- Conditional Rendering
+- Rendering Dynamic Data
+- Understanding Component-Based Architecture
+
+## 💻 Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## 👩‍💻 Developer
+
+**Fabiha M Sohail**
+
+Aspiring MERN Stack Developer
+
+---
+
+⭐ If you like this project, feel free to star this repository!
