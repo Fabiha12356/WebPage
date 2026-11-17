@@ -19,13 +19,13 @@ const Hero = (props) => {
             borderRadius : "25px",
          }}/>
           </div> <div className="col-lg-6">
-             <h1 className="display-5 fw-bold  lh-1 mb-3">
+             <h1 className="display-5 fw-bold  lh-1 mb-3 head-Color">
                 Modern Web Solution
              </h1>
              <h1 className="display-5 fw-bold  lh-1 mb-3 gradient-text">
                 For Better Tomorrow
              </h1>
-              <p className="lead">We create , beautiful fast nd responsive website that help your business
+              <p className="lead head-Color">We create , beautiful fast nd responsive website that help your business
                 grow . let's build something amazing together </p>
                  <div className="d-grid gap-2 d-md-flex justify-content-md-start">
              <button type="button" className="btn  btn-lg px-4 me-md-2 custon-btn" fdprocessedid="iuyoln">Get Started</button> 
@@ -35,7 +35,8 @@ const Hero = (props) => {
    </div>
     </div>
    </>:<>
-    <div className="container-fuild col-xxl-8 px-4 "> <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div className="container-fuild col-xxl-8 px-4 ">
+       <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
            <div className="col-lg-6">
             <h4>About Us</h4>
              <h1 className="display-5 fw-bold  lh-1 mb-3">
